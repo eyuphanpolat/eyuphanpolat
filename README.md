@@ -8,16 +8,19 @@ For me, programming is not just a job — it's a way to solve problems, create u
 
 
 <div align="center">
-  <a href="https://github.com/eyuphanpolat?tab=stars">
-    <img alt="GitHub Stars" title="GitHub Stars" src="https://img.shields.io/github/stars/euphanpolat?style=for-the-badge&logo=github&label=Stars&color=FFD700"/>
-  </a>
-  <a href="https://github.com/eyuphanpolat?tab=followers">
-    <img alt="GitHub Followers" title="Follow me on GitHub" src="https://img.shields.io/github/followers/euphanpolat?style=for-the-badge&logo=person-add&label=Follow&color=FFD700"/>
-  </a>
+  <a href="https://github.com/eyuphanpolat?tab=stars" target="_blank">
+  <img src="https://img.shields.io/badge/GitHub%20Stars-yellow?style=for-the-badge&logo=github&logoColor=black" alt="GitHub Stars" />
+</a>
+
+<a href="https://github.com/eyuphanpolat?tab=followers" target="_blank">
+  <img src="https://img.shields.io/badge/Follow-FFD700?style=for-the-badge&logo=github&logoColor=black" alt="Follow me on GitHub" />
+</a>
+
+
   <br>
   <a href="https://eyuphanpolat.com.tr/" target="_blank">
-    <img src="https://img.shields.io/badge/View%20My%20Portfolio-20c997?style=flat" alt="Portfolio"/>
-  </a>
+  <img src="https://img.shields.io/badge/Visit%20Portfolio-000?style=for-the-badge&logo=internet-explorer&logoColor=white" alt="Portfolio"/>
+</a>
   <a href="mailto:eyuphanpolatt@gmail.com" target="_blank">
   <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo" />
 </a>
