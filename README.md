@@ -35,9 +35,6 @@ For me, programming is not just a job — it's a way to solve problems, create u
 ### 🧰 Languages and Tools
 
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
-
-
-
 <img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 <img align="left" alt="Linux" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
 <img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
@@ -57,7 +54,7 @@ For me, programming is not just a job — it's a way to solve problems, create u
 
 ### 📊 Stats
 
-![Eyüphan polat's GitHub stats](https://github-readme-stats.vercel.app/api?username=euphanpolat&show_icons=true&theme=gruvbox)
+![Eyüphan polat's GitHub stats](https://github-readme-stats.vercel.app/api?username=eyuphanpolat&show_icons=true&theme=gruvbox)
 
 <div align="center">
   <a href="https://open.spotify.com/user/zh177kxrk19anvctnb0c0y1tl">
