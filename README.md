@@ -56,8 +56,4 @@ For me, programming is not just a job — it's a way to solve problems, create u
 
 ![Eyüphan polat's GitHub stats](https://github-readme-stats.vercel.app/api?username=eyuphanpolat&show_icons=true&theme=gruvbox)
 
-<div align="center">
-  <a href="https://open.spotify.com/user/zh177kxrk19anvctnb0c0y1tl">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=zh177kxrk19anvctnb0c0y1tl&count=5&unique=true" alt="Spotify recently played"  />
-  </a>
-</div>
+
